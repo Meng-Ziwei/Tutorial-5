@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(117, 176, 194);
+}
+
+button {
+background-color: #114263;
+border: none;
+color: white;
+padding: 8px 16px;
+text-decoration: none;
+margin: 4px 2px;
+cursor: pointer;
+}
+
+div {
+    margin: auto;
+    width : 50%;
+}
+
+p {font-size: 30px;
+}
+
+label {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 { color: #c20b0b; 
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size : 60px; 
+line-height: 120px; 
+font-weight: normal; 
+margin-bottom: 10px; 
+margin-top: 50px; 
+text-align: center; 
+text-shadow: 0 1.5px 1.5px #fff; 
+}
+
+input[type=text], select {
+    width: 20%;
+    padding: 5px 15px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+table {
+    border-collapse: collapse;
+    width : 100%;
+    align-content: center;
+}
+
+th, td {
+    border-bottom: 1px solid #ddd;
+    text-align: center;
+}
+
+tr:hover {background-color: rgb(255, 230, 252);}
+
+
+th {
+    background-color: #3195d8;
+    color: white;
+  }
